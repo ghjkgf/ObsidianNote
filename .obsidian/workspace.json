@@ -11,8 +11,12 @@
             "id": "444ebe9cc45aadb7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "md语法及obsidian教程.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "md语法及obsidian教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "md语法及obsidian教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "md语法及obsidian教程.md"
+              }
             }
           },
           {
@@ -175,6 +183,7 @@
   },
   "active": "444ebe9cc45aadb7",
   "lastOpenFiles": [
+    "Redis.md",
     "DBHS/问题.md",
     "DBHS/数据库相关.md",
     "DBHS/数据库思想 ----从关系型到非关系型.md",
@@ -200,7 +209,6 @@
     "DBHS/windows.md",
     "DBHS/windows terminal.md",
     "DBHS/webservice.md",
-    "DBHS/webflux.md",
     "DBHS/有意思的文章",
     "DBHS/英语",
     "DBHS/向AI学习",
