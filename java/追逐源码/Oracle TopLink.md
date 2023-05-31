@@ -1,0 +1,1 @@
+TopLink，是位居第一的Java对象关系可持续性体系结构，原署WebGain公司的产品，后被Oracle收购，并重新包装为Oracle AS TopLink。TOPLink为在关系数据库表中存储 Java 对象和企业 Java 组件 (EJB) 提供高度灵活和高效的机制。TopLink 为开发人员提供极佳的性能和选择，可以与任何数据库、任何应用服务器、任何开发工具集和过程以及任何 J2EE 体系结构协同工作。

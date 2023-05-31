@@ -1,0 +1,6 @@
+存储Bean的定义信息,决定Bean的生产方式
+
+一个Bean就对应着一个BeanDefinition
+
+多个BeanDefinition以map的形式存在
+

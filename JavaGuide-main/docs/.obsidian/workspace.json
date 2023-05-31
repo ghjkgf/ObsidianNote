@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "d92308f6d516879c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d33ccee5afb513a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11f58f2ba565226b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs-basics/algorithms/the-sword-refers-to-offer.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e59c5d042f55076",
+    "type": "split",
+    "children": [
+      {
+        "id": "969d63e6fdfa99ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48e8da38d2ec4358",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95ad5586cad80a1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10e401490254de32",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d117edb8e53249e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e93e892f55b36146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f9e6bfd07dd596",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cs-basics/algorithms/the-sword-refers-to-offer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2324b8fbac763b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cs-basics/algorithms/the-sword-refers-to-offer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ead545017742d7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43e64175127c9f89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cs-basics/algorithms/the-sword-refers-to-offer.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "11f58f2ba565226b",
+  "lastOpenFiles": [
+    "cs-basics/algorithms/string-algorithm-problems.md",
+    "cs-basics/algorithms/linkedlist-algorithm-problems.md",
+    "cs-basics/algorithms/10-classical-sorting-algorithms.md",
+    "books/software-quality.md",
+    "books/search-engine.md",
+    "books/readme.md",
+    "books/java.md",
+    "books/distributed-system.md",
+    "books/database.md",
+    "books/cs-basics.md"
+  ]
+}
