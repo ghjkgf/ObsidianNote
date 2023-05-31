@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "498dbe39c1c68b97",
+        "id": "f4ad1c93fb455e77",
         "type": "tabs",
         "children": [
           {
-            "id": "1baf20038387036e",
+            "id": "444ebe9cc45aadb7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,6 +173,50 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "983fee564b74e787",
-  "lastOpenFiles": []
+  "active": "444ebe9cc45aadb7",
+  "lastOpenFiles": [
+    "DBHS/问题.md",
+    "DBHS/数据库相关.md",
+    "DBHS/数据库思想 ----从关系型到非关系型.md",
+    "DBHS/输入法.md",
+    "DBHS/事务.md",
+    "DBHS/屏蔽器.md",
+    "DBHS/密码学.md",
+    "DBHS/流.md",
+    "DBHS/脚本.md",
+    "DBHS/分布式系统.md",
+    "DBHS/方案.md",
+    "DBHS/发布流程.md",
+    "DBHS/点子.md",
+    "DBHS/第一天.md",
+    "DBHS/第五天.md",
+    "DBHS/第四天.md",
+    "DBHS/第三天.md",
+    "DBHS/第二天.md",
+    "DBHS/抽象学习笔记---------coder1v5.md",
+    "DBHS/YAML.md",
+    "DBHS/XML WEBSERVICE SOAP.md",
+    "DBHS/WSL.md",
+    "DBHS/windows.md",
+    "DBHS/windows terminal.md",
+    "DBHS/webservice.md",
+    "DBHS/webflux.md",
+    "DBHS/有意思的文章",
+    "DBHS/英语",
+    "DBHS/向AI学习",
+    "DBHS/图片/Pasted image 20230530142317.png",
+    "DBHS/图片/Pasted image 20230526180146.png",
+    "DBHS/图片/Pasted image 20230522181531.png",
+    "DBHS/图片/Pasted image 20230522175146.png",
+    "DBHS/图片/Pasted image 20230512090700.png",
+    "DBHS/图片/Pasted image 20230508214558.png",
+    "DBHS/图片/Pasted image 20230508212811.png",
+    "DBHS/图片/Pasted image 20230508001432.png",
+    "DBHS/图片/Pasted image 20230508001116.png",
+    "DBHS/图片/Pasted image 20230507222356.png",
+    "DBHS/图片",
+    "DBHS/数学",
+    "DBHS/百科",
+    "DBHS/diary"
+  ]
 }
