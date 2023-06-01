@@ -51,7 +51,7 @@ networks:
 另外一个建立消费者
 	kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --from-beginning
 在生产者窗口>后输入任意内容,在消费者窗口可以看到消费成功
-![[Pasted image 20230128165354.png]]
+![[Pasted image 20230128165355.png]]
 
 如何将kafka-manager整合进去?
 单独启动zookeeper 可以使用manager
