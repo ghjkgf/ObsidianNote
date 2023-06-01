@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f88a3e8b-3637-4840-981c-40763c0ec74d" name="Changes" comment="1111">
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-git/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-git/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/Redis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/md语法及obsidian教程.md" beforeDir="false" afterPath="$PROJECT_DIR$/md语法及obsidian教程.md" afterDir="false" />
-    </list>
+    <list default="true" id="f88a3e8b-3637-4840-981c-40763c0ec74d" name="Changes" comment="1111" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,15 +19,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,7 +36,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685525621876</updated>
-      <workItem from="1685525624916" duration="1558000" />
+      <workItem from="1685525624916" duration="1977000" />
+      <workItem from="1685602167327" duration="18000" />
+      <workItem from="1685603410445" duration="1172000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1685526135068</created>
