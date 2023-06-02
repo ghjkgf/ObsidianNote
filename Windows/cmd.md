@@ -45,3 +45,6 @@ taskkill
 shutdown -s -t 6000
 shutdown -a  取消
 shutdown -r -t 1200 重启
+
+### certutil
+certutil -hashfile file sha256/md5

@@ -4,11 +4,14 @@
   "obsidian-checklist-plugin",
   "cycle-through-panes",
   "obsidian-dictionary-plugin",
-  "obsidian-dynamic-toc",
   "editing-toolbar",
   "floating-toc",
   "juggl",
   "neo4j-graph-view",
   "remember-cursor-position",
-  "obsidian-stack-overflow"
+  "obsidian-stack-overflow",
+  "ProxyGithub",
+  "obsidian-kanban",
+  "obsidian-auto-pair-chinese-symbol",
+  "obsidian-paste-image-rename"
 ]
