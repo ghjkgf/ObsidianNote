@@ -26,6 +26,8 @@ ssh -p 10240 spd@192.168.1.240
 scp -P 10240 /home/spd/cloud-platform.zip spd@192.168.1.240:/home/spd/cloud-platform.zip
 
 ### ETL
+
+更改 etl-0.0.2-SNAPSHOT.jar\BOOT-INF\classes\config\ 下的 client.properties文件
 pushchargetohis
 
 老版ftp    /产品发布/spd/程序发布/程序发布

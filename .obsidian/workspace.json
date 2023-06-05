@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd91c6a0731ef4f",
+        "id": "c8040e621ca49685",
         "type": "tabs",
         "children": [
           {
-            "id": "db5580aadbb07249",
+            "id": "d78f93ed565d960c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ob与MD使用说明/官网教程.md",
+                "file": "idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ob与MD使用说明/官网教程.md",
+                "file": "idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ob与MD使用说明/官网教程.md",
+                "file": "idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ob与MD使用说明/官网教程.md"
+                "file": "idea.md"
               }
             }
           },
@@ -188,8 +189,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "db5580aadbb07249",
+  "active": "d78f93ed565d960c",
   "lastOpenFiles": [
+    "DBHS.md",
+    "idea.md",
+    "Ob与MD使用说明/官网教程.md",
     "java/JavaGuide-main 1/docs/tools/git/github-tips.md",
     "java/JavaGuide-main 1/docs/tools/git/git-intro.md",
     "git.md",
@@ -204,7 +208,6 @@
     "分布式系统.md",
     "点子.md",
     "方案.md",
-    "DBHS.md",
     "etl.md",
     "curl.md",
     "发布流程.md",
@@ -215,8 +218,6 @@
     "第二天.md",
     "java/20230411.md",
     "2023-05-23.md",
-    "java/@Async.md",
-    "2023-05-09.md",
     "图片/03983a7fbd908528cda401c3c0573ef.png",
     "图片/artic2.png",
     "图片/artic3.png",

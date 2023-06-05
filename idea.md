@@ -38,40 +38,12 @@ run with coverage [(7条消息) Idea coverage覆盖率测试工具的使用_cove
 https://arthas.aliyun.com/doc/
 是一款线上监控诊断产品，通过全局视角实时查看应用 load、内存、gc、线程的状态信息，并能在不修改应用代码的情况下，对业务问题进行诊断，包括查看方法调用的....
 
-debug 回退功能
-drop frame (旧版)
-reset frame (新版)
-
-run with coverage [(7条消息) Idea coverage覆盖率测试工具的使用_coverage idea_蓝 染的博客-CSDN博客](https://blog.csdn.net/qq_31702847/article/details/104866713)
-
-https://arthas.aliyun.com/doc/
-是一款线上监控诊断产品，通过全局视角实时查看应用 load、内存、gc、线程的状态信息，并能在不修改应用代码的情况下，对业务问题进行诊断，包括查看方法调用的....
-
-debug 回退功能
-drop frame (旧版)
-reset frame (新版)
-
-run with coverage [(7条消息) Idea coverage覆盖率测试工具的使用_coverage idea_蓝 染的博客-CSDN博客](https://blog.csdn.net/qq_31702847/article/details/104866713)
-
-https://arthas.aliyun.com/doc/
-是一款线上监控诊断产品，通过全局视角实时查看应用 load、内存、gc、线程的状态信息，并能在不修改应用代码的情况下，对业务问题进行诊断，包括查看方法调用的....
-
-debug 回退功能
-drop frame (旧版)
-reset frame (新版)
-
-run with coverage [(7条消息) Idea coverage覆盖率测试工具的使用_coverage idea_蓝 染的博客-CSDN博客](https://blog.csdn.net/qq_31702847/article/details/104866713)
-
-https://arthas.aliyun.com/doc/
-是一款线上监控诊断产品，通过全局视角实时查看应用 load、内存、gc、线程的状态信息，并能在不修改应用代码的情况下，对业务问题进行诊断，包括查看方法调用的....
-
-debug 回退功能
-drop frame (旧版)
-reset frame (新版)
-
-run with coverage [(7条消息) Idea coverage覆盖率测试工具的使用_coverage idea_蓝 染的博客-CSDN博客](https://blog.csdn.net/qq_31702847/article/details/104866713)
-
-https://arthas.aliyun.com/doc/
-是一款线上监控诊断产品，通过全局视角实时查看应用 load、内存、gc、线程的状态信息，并能在不修改应用代码的情况下，对业务问题进行诊断，包括查看方法调用的....
-
 快捷键 extend selection Alt+S
+
+现象:maven正常,idea build报错
+	1.删除iml文件
+	2.在maven设置里runner->Delegate IDE build/run actions to Maven 将其勾选,使idea走maven的build.
+	3.path.macros.xml 文件
+	4.jdk.table.xml 
+	后面两个和 import settings情景也相关
+
