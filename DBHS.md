@@ -1,3 +1,31 @@
+### 禅道
+1、禅道访问地址：[http://zentao.gate.bjknrt.com/](http://zentao.gate.bjknrt.com/) 
+2、用户名和密码：zhaosenlin/111111
+
+### gitlab 
+zhaosenlin@dbhs.com.cn
+P@ssw0rd
+
+nacos / nacos
+
+### 云平台
+60.205.186.245:10241
+
+后端执行 maven install,生成jar包,
+(第一次需要先打包 猴子和老鼠,后续不用)
+放在 /home/spd/deploy_dir ,执行 .sh脚本
+前端先执行 npm run build:prod,生成dist文件夹
+传到/home/spd下,切root用户,挪到/home/spd/cloud-platform-proxy 
+文件夹重命名为public ,执行 npm run start
+
+测试地址
+https://dbhs-cloud-241.gate.bjknrt.com/
+
+跳转
+ssh -p 10240 spd@192.168.1.240
+scp -P 10240 /home/spd/cloud-platform.zip spd@192.168.1.240:/home/spd/cloud-platform.zip
+
+### ETL
 pushchargetohis
 
 老版ftp    /产品发布/spd/程序发布/程序发布
@@ -67,3 +95,4 @@ docker exec -it spd-etl /bin/bash
 ![[Pasted image 20230522181531.png]]
 使用docker cp 命令将日志拷贝出来
 映射的日志 data/spd/logs/spd-etl/
+
