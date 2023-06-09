@@ -15,3 +15,6 @@ xml 命名空间写两个a,b
 
 < <= > >= & ' "  
 &lt; &lt;= &gt; &gt;= &amp; &apos; &quot;
+
+cdata
+<![CDATA[   ]]>
