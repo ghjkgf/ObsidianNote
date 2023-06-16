@@ -48,3 +48,4 @@ shutdown -r -t 1200 重启
 
 ### certutil
 certutil -hashfile file sha256/md5
+[Windows上自带的渗透测试工具：Certutil - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/107819644)

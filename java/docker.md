@@ -64,3 +64,13 @@ apt-get install iputils-ping/vim/.......
 
 ### Compose 
 是用于定义和运行多容器 Docker 应用程序的工具。
+
+docker ps -a 显示未启动的容器
+
+docker commit -a -m 现有容器ID 保存的名称    -- 将容器保存成镜像?
+
+docker save -o mysql5.7.tar.gz mysql5.7     打包镜像
+
+docker load -i mysql5.7.tar.gz  加载镜像
+
+docker rmi -f `docker images -q`  删除所有镜像

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c8040e621ca49685",
+        "id": "3f53d2bdbe4664f6",
         "type": "tabs",
         "children": [
           {
-            "id": "d78f93ed565d960c",
+            "id": "14e26e04d4040202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/kettle.md",
+                "file": "java/docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4957adf864ee52ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kettle/kettle记录.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,12 +56,24 @@
             }
           },
           {
+            "id": "d78f93ed565d960c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kettle/kettle记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b7ea20a84c0364e9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "file:kettle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,11 +91,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 501.5
+    "width": 200
   },
   "right": {
     "id": "837e82de751f1806",
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/kettle.md",
+                "file": "kettle/kettle记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/kettle.md",
+                "file": "kettle/kettle记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/kettle.md"
+                "file": "kettle/kettle记录.md"
               }
             }
           },
@@ -175,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +214,22 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d78f93ed565d960c",
+  "active": "4957adf864ee52ca",
   "lastOpenFiles": [
-    "windows.md",
     "Windows/cmd.md",
+    "kettle/kettle记录.md",
+    "图片/kettle多作业可以共享变量.png",
+    "java/docker.md",
+    "docker desktop.md",
+    "脚本.md",
+    "java/JavaSE/网络编程.md",
+    "向AI学习/20230320.md",
+    "linux.md",
+    "kettle/docker版说明.md",
+    "kettle/KettlePack-WebHook使用.md",
+    "kettle/KettlePack使用Carte执行任务.md",
+    "kettle",
+    "windows.md",
     "XML WEBSERVICE SOAP.md",
     "Spring-WebService.md",
     "java/Spring/IOC.md",
@@ -207,17 +244,6 @@
     "工具类/测试GitHub.md",
     "流程.md",
     "流.md",
-    "浏览器搜索记录.md",
-    "浏览器使用.md",
-    "脚本.md",
-    "计算机科学全路线图.md",
-    "分布式系统.md",
-    "点子.md",
-    "方案.md",
-    "etl.md",
-    "curl.md",
-    "发布流程.md",
-    "第五天.md",
     "图片/03983a7fbd908528cda401c3c0573ef.png",
     "图片/artic2.png",
     "图片/artic3.png",
@@ -226,7 +252,6 @@
     "DBHS/图片/Pasted image 20230129135849.png",
     "DBHS/图片/Pasted image 20230129135536.png",
     "图片/img_v2_c241c63e-d1d1-4478-8ae0-1b41b6a4f6cg.jpg",
-    "图片/img_v2_cf56fe06-95f7-496d-b08c-0e8c46a0d1bg.jpg",
     "java/mongoDB.md~",
     "数据库思想 ----从关系型到非关系型.md~",
     "输入法.md~",
@@ -235,7 +260,6 @@
     "DBHS/问题.md~",
     "向AI学习",
     "diary",
-    "第三方工具",
-    "Ob与MD使用说明"
+    "第三方工具"
   ]
 }
