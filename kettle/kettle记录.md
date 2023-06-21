@@ -95,10 +95,8 @@ nohup ./carte.sh 192.168.1.31 8787 > carte.log 2>&1 &
 
 #!/bin/bash
 
-# 获取正在运行的 Carte 进程的 PID
 PID=$(pgrep -f "carte.sh")
 
-# 如果 PID 存在，则停止 Carte 进程
 if [[ -n $PID ]]; then
     echo "Stopping Carte..."
     kill $PID
@@ -122,3 +120,8 @@ http://test.etl.dbhs.com.cn/kettle/executeTrans/?trans=/home/spd/kettleFile/purc
 工作流串联是 按医院还是按表名
 在 kettleFile文件夹里放这个文件,存放医院名
 ktrConfig.properties 
+
+./pan.sh /file:/home/spd/kettleFile/way_bill_cloud.ktr > trans.log 2>&1 &
+
+服务端 步骤一,windows/linux 需要更改 ktrConfig.ktr 文件的路径
+配置文件能不能使用相对路径

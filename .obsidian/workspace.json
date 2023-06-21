@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kettle/kettle记录.md",
+                "file": "linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kettle/kettle记录.md",
+                "file": "linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kettle/kettle记录.md",
+                "file": "linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kettle/kettle记录.md"
+                "file": "linux.md"
               }
             }
           },
@@ -216,15 +216,23 @@
   },
   "active": "4957adf864ee52ca",
   "lastOpenFiles": [
-    "Windows/cmd.md",
+    "java/JavaGuide-main 1/docs/cs-basics/operating-system/linux-intro.md",
+    "java/JavaGuide-main 1/docs/cs-basics/operating-system/images/Linux-Logo.png",
+    "java/JavaGuide-main 1/docs/cs-basics/operating-system/images/Linux目录树.png",
+    "java/JavaGuide-main 1/docs/cs-basics/operating-system/images/Linux权限解读.png",
+    "java/JavaGuide-main 1/docs/cs-basics/operating-system/images/Linux权限命令.png",
+    "java/JavaGuide-main 1/docs/cs-basics/operating-system/images/Linux之父.png",
+    "linux.md",
+    "vim.md",
+    "java/JavaGuide-main 1/docs/java/jvm/pictures/jdk监控和故障处理工具总结/3内存监控.png",
     "kettle/kettle记录.md",
+    "Windows/cmd.md",
     "图片/kettle多作业可以共享变量.png",
     "java/docker.md",
     "docker desktop.md",
     "脚本.md",
     "java/JavaSE/网络编程.md",
     "向AI学习/20230320.md",
-    "linux.md",
     "kettle/docker版说明.md",
     "kettle/KettlePack-WebHook使用.md",
     "kettle/KettlePack使用Carte执行任务.md",
@@ -243,15 +251,8 @@
     "java/JavaGuide-main 1/docs/cs-basics/network/images/http&https/digital-signature.png",
     "工具类/测试GitHub.md",
     "流程.md",
-    "流.md",
     "图片/03983a7fbd908528cda401c3c0573ef.png",
     "图片/artic2.png",
-    "图片/artic3.png",
-    "图片/88624736eb685bc1d4a0c54f8382954.png",
-    "图片/美团单车问题.png",
-    "DBHS/图片/Pasted image 20230129135849.png",
-    "DBHS/图片/Pasted image 20230129135536.png",
-    "图片/img_v2_c241c63e-d1d1-4478-8ae0-1b41b6a4f6cg.jpg",
     "java/mongoDB.md~",
     "数据库思想 ----从关系型到非关系型.md~",
     "输入法.md~",
